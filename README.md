@@ -40,4 +40,4 @@ It helps identify top-performing products, busiest hours, and key trends in sale
 • Improved decision-making by providing a **visual, data-driven overview** of sales patterns.
 
 ###  5)Screenshots/Images
- 
+ https://github.com/tanishqsingh919/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales%20Dashboard.png
