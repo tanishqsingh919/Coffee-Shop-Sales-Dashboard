@@ -1,6 +1,6 @@
-# Coffee-Shop-Sales
+
 ## 1) Project Title / Headline
-**Coffee Shop Sales Performance Dashboard**
+# **Coffee Shop Sales Performance Dashboard**
 
 ---
 
