@@ -38,3 +38,6 @@ It helps identify top-performing products, busiest hours, and key trends in sale
 • Pinpointed **top-selling products** like Barista Espresso and Brewed Chai Tea to focus promotions.  
 • Helped managers understand **store-wise sales performance** to allocate resources efficiently.  
 • Improved decision-making by providing a **visual, data-driven overview** of sales patterns.
+
+###  5)Screenshots/Images
+ 
